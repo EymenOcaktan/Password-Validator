@@ -1,4 +1,4 @@
-
+# Password-Validator
 This is a beginner-friendly Python script that helps validate the strength of a password. It checks for key security criteria and provides real-time feedback.
 
 ## ✅ Features
